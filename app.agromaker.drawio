@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-28T17:07:59.439Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="hV-L4S_qgXcISxtIjNO3" version="12.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-19T14:11:17.956Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="eGiZN2oi0N1my_pOk2MC" version="12.8.6" type="github">
   <diagram id="Pf8WNJaXz8v3mVxfZ9bQ" name="Page-1">
-    <mxGraphModel dx="801" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
         <mxCell id="T7uKuAlKiV4LEcT5qUAH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T7uKuAlKiV4LEcT5qUAH-33" target="T7uKuAlKiV4LEcT5qUAH-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jWj3WAKLlarkl476-WtP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="T7uKuAlKiV4LEcT5qUAH-33" target="T7uKuAlKiV4LEcT5qUAH-4">
+        <mxCell id="jWj3WAKLlarkl476-WtP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="T7uKuAlKiV4LEcT5qUAH-33" target="T7uKuAlKiV4LEcT5qUAH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T7uKuAlKiV4LEcT5qUAH-33" value="administrador" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T7uKuAlKiV4LEcT5qUAH-38" value="Usuario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="50" y="522" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T7uKuAlKiV4LEcT5qUAH-40" value="Registras variables" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="195" y="522" width="120" height="20" as="geometry" />
