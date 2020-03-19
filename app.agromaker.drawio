@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-19T14:18:54.533Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="2QpFR_fvSiodH1MFmC4h" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-19T14:20:55.735Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="GbXY8UP5isqghMEY7ur1" version="12.8.6" type="github">
   <diagram id="Pf8WNJaXz8v3mVxfZ9bQ" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,8 +259,8 @@
         <mxCell id="m6jPTPbGRtpeS2LB5_UH-23" value="Administrator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="60" y="1525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m6jPTPbGRtpeS2LB5_UH-24" value="Creates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="203" y="1350" width="60" height="20" as="geometry" />
+        <mxCell id="m6jPTPbGRtpeS2LB5_UH-24" value="Creates variables" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="1565" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m6jPTPbGRtpeS2LB5_UH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6jPTPbGRtpeS2LB5_UH-26" target="m6jPTPbGRtpeS2LB5_UH-34">
           <mxGeometry relative="1" as="geometry">
@@ -270,8 +270,8 @@
         <mxCell id="m6jPTPbGRtpeS2LB5_UH-26" value="User" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="60" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m6jPTPbGRtpeS2LB5_UH-27" value="Registras variables" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1702" width="120" height="20" as="geometry" />
+        <mxCell id="m6jPTPbGRtpeS2LB5_UH-27" value="Records values" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1770" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m6jPTPbGRtpeS2LB5_UH-28" value="Creates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="1290" width="60" height="20" as="geometry" />
@@ -325,6 +325,9 @@
         </mxCell>
         <mxCell id="m6jPTPbGRtpeS2LB5_UH-44" value="Variable y" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="742.5" y="1620" width="50" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="m6jPTPbGRtpeS2LB5_UH-45" value="Records values" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1420" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
