@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-19T14:17:36.076Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="69pUdAAKJe7sEhp4CuMf" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-19T14:18:54.533Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="2QpFR_fvSiodH1MFmC4h" version="12.8.6" type="github">
   <diagram id="Pf8WNJaXz8v3mVxfZ9bQ" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,7 +273,7 @@
         <mxCell id="m6jPTPbGRtpeS2LB5_UH-27" value="Registras variables" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="1702" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="m6jPTPbGRtpeS2LB5_UH-28" value="Cerates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="m6jPTPbGRtpeS2LB5_UH-28" value="Creates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="1290" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m6jPTPbGRtpeS2LB5_UH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6jPTPbGRtpeS2LB5_UH-31" target="m6jPTPbGRtpeS2LB5_UH-33">
