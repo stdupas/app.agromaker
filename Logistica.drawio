@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-06T23:06:57.349Z" agent="5.0 (X11)" etag="rNTddz5cuVA4PTaw_KbO" version="12.9.8" type="github">
+<mxfile host="www.draw.io" modified="2020-04-06T23:10:10.610Z" agent="5.0 (X11)" etag="p21Vsz9g8DdZg_q5BzHD" version="12.9.8" type="github">
   <diagram id="fr_rRepjxcli99Q9kd8I" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,9 +72,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14NXw_HSZUPJ8-5zefrZ-40" value="&lt;div&gt;Mapea los &lt;br&gt;&lt;/div&gt;&lt;div&gt;productos en &lt;br&gt;&lt;/div&gt;&lt;div&gt;la periferia &lt;br&gt;de bogota &lt;br&gt;con precios&lt;/div&gt;&lt;div&gt; de ransporte&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="14NXw_HSZUPJ8-5zefrZ-36">
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-40" value="&lt;div&gt;Mapea los productos en la periferia &lt;br&gt;de bogota con, cuantidad, cualidad precios&lt;/div&gt;&lt;div&gt; de transporte, foto&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="14NXw_HSZUPJ8-5zefrZ-36">
           <mxGeometry x="-0.4452" y="3" relative="1" as="geometry">
-            <mxPoint x="4" y="49.5" as="offset" />
+            <mxPoint x="-16" y="29.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="14NXw_HSZUPJ8-5zefrZ-34" target="14NXw_HSZUPJ8-5zefrZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="388" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-34" value="Plataforma" style="html=1;" vertex="1" parent="1">
@@ -96,6 +103,12 @@
               <mxPoint x="650" y="375" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-46" value="&lt;div&gt;Propone productos cuantidad&lt;/div&gt;&lt;div&gt;Calidad Foto&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-47" value="&lt;div&gt;Evnia información de colecta &lt;br&gt;&lt;/div&gt;&lt;div&gt;de productos por los transportadoes &lt;br&gt;&lt;/div&gt;&lt;div&gt;con el nombre del consumidor&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="457" y="400" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
