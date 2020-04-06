@@ -1,11 +1,23 @@
-<mxfile host="www.draw.io" modified="2020-04-06T22:43:51.426Z" agent="5.0 (X11)" etag="wc153K9gmX6QTqdZ14qN" version="12.9.8" type="github">
+<mxfile host="www.draw.io" modified="2020-04-06T22:51:35.719Z" agent="5.0 (X11)" etag="NRI5fztv2_DpMrtMMeoS" version="12.9.8" type="github">
   <diagram id="fr_rRepjxcli99Q9kd8I" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1GbIclSV9syjYE9jDFRG-1" value="Pagina Para consumidor " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="14NXw_HSZUPJ8-5zefrZ-1" target="14NXw_HSZUPJ8-5zefrZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="14NXw_HSZUPJ8-5zefrZ-2" target="14NXw_HSZUPJ8-5zefrZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
