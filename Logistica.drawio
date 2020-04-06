@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-06T23:11:55.691Z" agent="5.0 (X11)" etag="_XCy7sX-L71TfYxZPHUR" version="12.9.8" type="github">
+<mxfile host="www.draw.io" modified="2020-04-06T23:13:06.175Z" agent="5.0 (X11)" etag="_l8PNS6KtAzcdBCVmiM-" version="12.9.8" type="github">
   <diagram id="fr_rRepjxcli99Q9kd8I" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.189;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="14NXw_HSZUPJ8-5zefrZ-34" target="14NXw_HSZUPJ8-5zefrZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-34" value="Plataforma" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="350" width="110" height="50" as="geometry" />
         </mxCell>
@@ -117,7 +120,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-50" value="&lt;div&gt;Envia foto del &lt;br&gt;&lt;/div&gt;&lt;div&gt;producto que &lt;br&gt;&lt;/div&gt;&lt;div&gt;recojo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="260" width="90" height="50" as="geometry" />
+          <mxGeometry x="407" y="248" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-52" value="&lt;div&gt;revisa el &lt;br&gt;&lt;/div&gt;&lt;div&gt;mapa de rutas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="258" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-53" value="&lt;div&gt;Selectiona &lt;br&gt;&lt;/div&gt;&lt;div&gt;rutas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="407" y="306" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
