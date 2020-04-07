@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-06T23:13:06.175Z" agent="5.0 (X11)" etag="_l8PNS6KtAzcdBCVmiM-" version="12.9.8" type="github">
+<mxfile host="www.draw.io" modified="2020-04-07T00:21:22.767Z" agent="5.0 (X11)" etag="gG6Slu-q8WIOPKkdsjDd" version="12.9.8" type="github">
   <diagram id="fr_rRepjxcli99Q9kd8I" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,13 +29,16 @@
           <mxGeometry y="80" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="140" width="148" height="100" as="geometry" />
+          <mxGeometry x="120" y="140" width="271.5" height="99.45" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-12" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="14NXw_HSZUPJ8-5zefrZ-22">
-          <mxGeometry x="20" width="40" height="60" as="geometry" />
+          <mxGeometry x="19.89010989010989" width="39.78021978021978" height="59.67" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-17" value="Consumidor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="14NXw_HSZUPJ8-5zefrZ-22">
-          <mxGeometry y="80" width="80" height="20" as="geometry" />
+          <mxGeometry y="79.56" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-59" value="&lt;div&gt;Entrega los productos y &lt;br&gt;&lt;/div&gt;&lt;div&gt;recibe pago producto + transporte&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="14NXw_HSZUPJ8-5zefrZ-22">
+          <mxGeometry x="59.67395604395604" y="49.5555" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="14NXw_HSZUPJ8-5zefrZ-15">
           <mxGeometry relative="1" as="geometry">
@@ -51,7 +54,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-26" value="&lt;div&gt;Recibe el producto&lt;/div&gt;&lt;div&gt;Paga la totalidad&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="95" width="120" height="50" as="geometry" />
+          <mxGeometry x="170" y="70" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="14NXw_HSZUPJ8-5zefrZ-27" target="14NXw_HSZUPJ8-5zefrZ-28">
           <mxGeometry relative="1" as="geometry" />
@@ -113,8 +116,8 @@
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-47" value="&lt;div&gt;Envia información de colecta &lt;br&gt;&lt;/div&gt;&lt;div&gt;de productos por los transportadoes &lt;br&gt;&lt;/div&gt;&lt;div&gt;con el nombre del consumidor&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="390" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="14NXw_HSZUPJ8-5zefrZ-48" value="recoje los producyos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="149" width="130" height="20" as="geometry" />
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-48" value="&lt;div&gt;recoje los productos &lt;br&gt;&lt;/div&gt;&lt;div&gt;y paga el producto&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="138" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14NXw_HSZUPJ8-5zefrZ-18" target="14NXw_HSZUPJ8-5zefrZ-34">
           <mxGeometry relative="1" as="geometry" />
@@ -123,10 +126,19 @@
           <mxGeometry x="407" y="248" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-52" value="&lt;div&gt;revisa el &lt;br&gt;&lt;/div&gt;&lt;div&gt;mapa de rutas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="258" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="258" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-53" value="&lt;div&gt;Selectiona &lt;br&gt;&lt;/div&gt;&lt;div&gt;rutas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="306" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-54" value="&lt;div&gt;Entrega los productos &lt;br&gt;&lt;/div&gt;&lt;div&gt;y recibe pago&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="185" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-57" value="&lt;div&gt;recoje los productos y &lt;br&gt;&lt;/div&gt;&lt;div&gt;paga producto + transporte&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="199.6754945054945" y="137.0025" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-61" value="&lt;div&gt;Envia foto &lt;br&gt;&lt;/div&gt;&lt;div&gt;del producto &lt;br&gt;&lt;/div&gt;&lt;div&gt;que recojo&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="248" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
