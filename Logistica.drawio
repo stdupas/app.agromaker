@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-07T14:52:09.999Z" agent="5.0 (X11)" etag="0lwpO7NLSrRoAhOEBEHt" version="12.9.8" type="github">
+<mxfile host="www.draw.io" modified="2020-04-07T15:15:38.439Z" agent="5.0 (X11)" etag="VOUPcPcebPckQ9pO5kjQ" version="12.9.8" type="github">
   <diagram id="fr_rRepjxcli99Q9kd8I" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14NXw_HSZUPJ8-5zefrZ-46" value="&lt;div&gt;1-Propone productos cuantidad&lt;/div&gt;&lt;div&gt;Calidad Foto&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="14NXw_HSZUPJ8-5zefrZ-46" value="&lt;div&gt;&lt;b&gt;1&lt;/b&gt;-Propone productos cuantidad&lt;/div&gt;&lt;div&gt;Calidad Foto&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="340" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-47" value="&lt;div&gt;Envia información de colecta &lt;br&gt;&lt;/div&gt;&lt;div&gt;de productos por los transportadoes &lt;br&gt;&lt;/div&gt;&lt;div&gt;con el nombre del consumidor&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="14NXw_HSZUPJ8-5zefrZ-61" value="&lt;div&gt;9.2.Envia foto &lt;br&gt;&lt;/div&gt;&lt;div&gt;del producto &lt;br&gt;&lt;/div&gt;&lt;div&gt;que recojo&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="248" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ADDT872Vxhy6xt_6KgxA-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="469" y="341" width="13" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
