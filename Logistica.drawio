@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-07T15:25:34.947Z" agent="5.0 (X11)" etag="UQHyRmfRH7LtWtMzwzoo" version="12.9.8" type="github">
+<mxfile host="www.draw.io" modified="2020-04-07T15:27:05.980Z" agent="5.0 (X11)" etag="YaMVcoRdlkPi7aj--nca" version="12.9.8" type="github">
   <diagram id="fr_rRepjxcli99Q9kd8I" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,11 +129,11 @@
         <mxCell id="ADDT872Vxhy6xt_6KgxA-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="ADDT872Vxhy6xt_6KgxA-2">
           <mxGeometry x="12" y="-21" width="10" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="ADDT872Vxhy6xt_6KgxA-3" value="&lt;div&gt;Criticas&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Comlicado tomar fotos para cada producto&lt;/li&gt;&lt;li&gt;¿Quien respalda si se daña en el transporte?&lt;/li&gt;&lt;li&gt;¿Como garantizar la calidad agroecológica?&lt;br&gt;&lt;/li&gt;&lt;li&gt;...&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="ADDT872Vxhy6xt_6KgxA-3" value="&lt;div&gt;Preguntas&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Comlicado tomar fotos para cada producto&lt;/li&gt;&lt;li&gt;¿Quien respalda si se daña en el transporte?&lt;/li&gt;&lt;li&gt;¿Como garantizar la calidad agroecológica?&lt;br&gt;&lt;/li&gt;&lt;li&gt;...&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="57.00000000000001" y="475" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ADDT872Vxhy6xt_6KgxA-4" value="&lt;div&gt;Respuestas&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Es una costumbre. Por whatsapp es facil&lt;br&gt;&lt;/li&gt;&lt;li&gt;El que recibe el producto debe &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359.68" y="479" width="420.32" height="220" as="geometry" />
+        <mxCell id="ADDT872Vxhy6xt_6KgxA-4" value="&lt;div&gt;Respuestas&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Es una costumbre. Por whatsapp es facil&lt;br&gt;&lt;/li&gt;&lt;li&gt;El que recibe el producto debe&lt;/li&gt;&lt;li&gt;Con el registro app.agromakers o voz.agromakers &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="475" width="340" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
