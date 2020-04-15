@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T00:06:37.705Z" agent="5.0 (X11)" etag="XH0T1NvQd-P_tnWhP0rT" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T00:07:13.472Z" agent="5.0 (X11)" etag="KevuYSrJNRjbtbyiRBS8" version="12.9.6" type="github">
   <diagram id="DSm6ysMIaf8bvjbPjpab" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,6 +89,9 @@
         </mxCell>
         <mxCell id="n8raW2g6PVObqg7Fqn5K-27" value="&lt;div&gt;Tipos binarios&lt;br&gt;&lt;/div&gt;&lt;div&gt;Yes/No&lt;/div&gt;&lt;div&gt;Liquido/Solido&lt;/div&gt;&lt;div&gt;Químico/Orgánico&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="536.5" y="600" width="181" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="n8raW2g6PVObqg7Fqn5K-33" value="Disonibilidad para la venta" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="520" width="71" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
