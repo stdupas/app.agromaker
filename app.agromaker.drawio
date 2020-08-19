@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T21:49:00.018Z" agent="5.0 (X11)" etag="Cj-19eqo4h2P5CBqT_Kd" version="13.5.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-08-19T21:57:06.960Z" agent="5.0 (X11)" etag="cTG2qZHnHR5Vf-RbPBLK" version="13.5.5" type="github" pages="4">
   <diagram id="Pf8WNJaXz8v3mVxfZ9bQ" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -563,7 +563,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FayiwCGF7vrLkHC8sqnw" name="Page-3">
+  <diagram id="FayiwCGF7vrLkHC8sqnw" name="miCamppoApp">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rbvOEtafkvv0ue7I3fT8-0" />
@@ -944,9 +944,6 @@
         <mxCell id="rRu6WxMVh9s6slGnnuz8-25" value="&lt;div&gt;Encontra &lt;br&gt;&lt;/div&gt;&lt;div&gt;información &lt;br&gt;&lt;/div&gt;&lt;div&gt;agroecológica&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="TETZgRN4_LlAqGWYBJRa-1">
           <mxGeometry x="964.0000000000001" y="-134.5" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rRu6WxMVh9s6slGnnuz8-26" value="Selecciona" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="TETZgRN4_LlAqGWYBJRa-1">
-          <mxGeometry x="702.45" y="-118.5" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="rRu6WxMVh9s6slGnnuz8-27" value="Categorías" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=17;" vertex="1" parent="TETZgRN4_LlAqGWYBJRa-1">
           <mxGeometry x="984" y="-318.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -958,6 +955,9 @@
         </mxCell>
         <mxCell id="rRu6WxMVh9s6slGnnuz8-31" value="Selecciona" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="TETZgRN4_LlAqGWYBJRa-1">
           <mxGeometry x="854" y="-299" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rk0fsqtriWCZk9HTFBfj-0" value="Alimenta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="TETZgRN4_LlAqGWYBJRa-1">
+          <mxGeometry x="712.45" y="-118.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
