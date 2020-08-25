@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T20:36:36.726Z" agent="5.0 (X11)" etag="xRxGPzRAf3qJRkq_ySNl" version="13.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-25T21:56:33.466Z" agent="5.0 (X11)" etag="IHRJjHM6l-wCB_Vt3x2S" version="13.6.4" type="github" pages="2">
   <diagram id="siW5B_dTKFlqb_uOlBnF" name="app">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -278,46 +278,52 @@
         <mxCell id="-r0ti4NhzVTmGECnDtU_-0" />
         <mxCell id="-r0ti4NhzVTmGECnDtU_-1" parent="-r0ti4NhzVTmGECnDtU_-0" />
         <mxCell id="-r0ti4NhzVTmGECnDtU_-2" value="Productivity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="260" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-3" value="Free time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-4" value="Cultural wellfare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-5" value="Yield" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="450" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-5" value="Labor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="20" y="556" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-6" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="170" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-6" value="Comercial inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="200" y="556" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-7" value="Income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-8" value="Conventional economy crisis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="70" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-9" value="Residues recycling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="580" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-9" value="Unsold" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="560" y="289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-10" value="Sales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-11" value="Soil organic matter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="360" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="556" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-12" value="Root depth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="550" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="556" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-13" value="Plant associations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="750" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="556" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-14" value="Access to informacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="950" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="556" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-15" value="Access to informacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="660" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-16" value="Transport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-17" value="Residues recycling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="770" y="289" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
