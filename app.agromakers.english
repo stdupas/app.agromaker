@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T21:56:33.466Z" agent="5.0 (X11)" etag="IHRJjHM6l-wCB_Vt3x2S" version="13.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-25T22:38:36.129Z" agent="5.0 (X11)" etag="WfZGSwREsLFRsnwWT69x" version="13.6.4" type="github" pages="2">
   <diagram id="siW5B_dTKFlqb_uOlBnF" name="app">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -277,53 +277,217 @@
       <root>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-0" />
         <mxCell id="-r0ti4NhzVTmGECnDtU_-1" parent="-r0ti4NhzVTmGECnDtU_-0" />
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-2" value="Productivity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-3" value="Free time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="160" y="289" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="384" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-4" value="Cultural wellfare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-5" value="Labor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="20" y="556" width="120" height="60" as="geometry" />
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-5" value="Working hours" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="91" y="600" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-6" value="Comercial inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="200" y="556" width="120" height="60" as="geometry" />
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-6" value="Comercial organic fertilizers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="361" y="600" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-7" value="Income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-8" value="Conventional economy crisis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="465" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-9" value="Unsold" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="560" y="289" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="270" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-10" value="Sales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="360" y="289" width="120" height="60" as="geometry" />
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-10" value="Production" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="300" y="384" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-11" value="Soil organic matter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="380" y="556" width="120" height="60" as="geometry" />
+          <mxGeometry x="271" y="600" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-12" value="Root depth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="560" y="556" width="120" height="60" as="geometry" />
+          <mxGeometry x="541" y="600" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-13" value="Plant associations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="730" y="556" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-14" value="Access to informacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="930" y="556" width="120" height="60" as="geometry" />
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-13" value="Plant associations design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="991" y="600" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-15" value="Access to informacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="640" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="476" y="720" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-16" value="Transport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-16" value="Transporter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="570" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-17" value="Residues recycling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="770" y="289" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="384" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="-r0ti4NhzVTmGECnDtU_-5" target="-r0ti4NhzVTmGECnDtU_-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="131" y="580" />
+              <mxPoint x="220" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-19" value="Farm area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="181" y="600" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-20" value="Homemade organic fertilizers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="451" y="600" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-21" value="Pests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="900" y="479" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-22" value="Comercial organic pesticides" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="811" y="600" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-23" value="Homemade pesticides" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="901" y="600" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-24" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="-r0ti4NhzVTmGECnDtU_-5" target="-r0ti4NhzVTmGECnDtU_-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="141" y="610" as="sourcePoint" />
+            <mxPoint x="191" y="359" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="131" y="680" />
+              <mxPoint x="940" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-25" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" target="-r0ti4NhzVTmGECnDtU_-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="131" y="660" as="sourcePoint" />
+            <mxPoint x="671" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="131" y="680" />
+              <mxPoint x="491" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-26" value="Farm design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="261" y="720" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-27" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="-r0ti4NhzVTmGECnDtU_-15" target="-r0ti4NhzVTmGECnDtU_-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="171" y="780" as="sourcePoint" />
+            <mxPoint x="711" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="511" y="800" />
+              <mxPoint x="296" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="-r0ti4NhzVTmGECnDtU_-28" target="-r0ti4NhzVTmGECnDtU_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-28" value="Time spent in movement " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="91" y="720" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-29" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="-r0ti4NhzVTmGECnDtU_-26" target="-r0ti4NhzVTmGECnDtU_-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336" y="780" as="sourcePoint" />
+            <mxPoint x="121" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="279" y="800" />
+              <mxPoint x="131" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-31" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="-r0ti4NhzVTmGECnDtU_-13" target="-r0ti4NhzVTmGECnDtU_-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="sourcePoint" />
+            <mxPoint x="410" y="359" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1031" y="560" />
+              <mxPoint x="940" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-0" value="Surrounding biodiversity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="1081" y="600" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-1" value="Polinators" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="1000" y="479" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="Ca3WtcqFlA-a40tMtNKu-0" target="Ca3WtcqFlA-a40tMtNKu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="610" as="sourcePoint" />
+            <mxPoint x="600" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1121" y="550" />
+              <mxPoint x="1040" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="-r0ti4NhzVTmGECnDtU_-23" target="Ca3WtcqFlA-a40tMtNKu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="610" as="sourcePoint" />
+            <mxPoint x="1020" y="539" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="941" y="570" />
+              <mxPoint x="1040" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="-r0ti4NhzVTmGECnDtU_-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="600" as="sourcePoint" />
+            <mxPoint x="940" y="540" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-5" value="Diseases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="800" y="479" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-8" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="-r0ti4NhzVTmGECnDtU_-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="610" as="sourcePoint" />
+            <mxPoint x="550" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="190" />
+              <mxPoint x="80" y="820" />
+              <mxPoint x="550" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-10" value="Consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="615" y="30" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-11" value="Conventional economy crisis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-12" value="Transformer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="670" y="160" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-13" value="Sold" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="360" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-14" value="Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="420" y="384" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-16" value="Tilage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="630" y="600" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-17" value="Renewable energy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="575" y="720" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-18" value="Fosil energy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="660" y="720" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-19" value="Climate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="741" y="720" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-21" value="Soil humidity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="720" y="600" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-25" value="Unsold Recycling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="535" y="384" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-26" value="Short supply chain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="456" y="160" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-27" value="Animals" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="755" y="384" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
