@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T00:09:18.692Z" agent="5.0 (X11)" etag="WKnpKANOtshrVhaHl8jV" version="13.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-26T00:12:17.729Z" agent="5.0 (X11)" etag="PWTarN9vCpt2luOhUEcJ" version="13.6.4" type="github" pages="2">
   <diagram id="siW5B_dTKFlqb_uOlBnF" name="app">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -491,6 +491,26 @@
         </mxCell>
         <mxCell id="Ca3WtcqFlA-a40tMtNKu-28" value="Soil type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="821" y="720" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-29" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-r0ti4NhzVTmGECnDtU_-1" source="Ca3WtcqFlA-a40tMtNKu-26" target="-r0ti4NhzVTmGECnDtU_-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="538.5" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499" y="130" />
+              <mxPoint x="70" y="130" />
+              <mxPoint x="70" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-30" value="Energy efficiency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="811" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-31" value="Diversity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="951" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-32" value="Wellfare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="891" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
