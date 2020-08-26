@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T00:23:23.030Z" agent="5.0 (X11)" etag="WPLIWnmSSIZ1VwMDPyg2" version="13.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-26T00:25:31.947Z" agent="5.0 (X11)" etag="oN-3DY_OZ4uibAgGinAt" version="13.6.4" type="github" pages="2">
   <diagram id="siW5B_dTKFlqb_uOlBnF" name="app">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -524,6 +524,12 @@
         </mxCell>
         <mxCell id="Ca3WtcqFlA-a40tMtNKu-36" value="Waste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="680" y="270" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-37" value="Fossil fuel consumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="574" y="270" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-38" value="Cultivated biodiversity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="991" y="720" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
