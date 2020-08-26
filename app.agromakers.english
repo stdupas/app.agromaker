@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T00:12:17.729Z" agent="5.0 (X11)" etag="PWTarN9vCpt2luOhUEcJ" version="13.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-26T00:23:23.030Z" agent="5.0 (X11)" etag="WPLIWnmSSIZ1VwMDPyg2" version="13.6.4" type="github" pages="2">
   <diagram id="siW5B_dTKFlqb_uOlBnF" name="app">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
           <mxGeometry x="180" y="384" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-4" value="Cultural wellfare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="160" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-5" value="Working hours" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="91" y="600" width="80" height="60" as="geometry" />
@@ -290,7 +290,7 @@
           <mxGeometry x="361" y="600" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-7" value="Income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-8" value="Conventional economy crisis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="465" y="30" width="120" height="60" as="geometry" />
@@ -313,8 +313,8 @@
         <mxCell id="-r0ti4NhzVTmGECnDtU_-15" value="Access to informacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="476" y="720" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-r0ti4NhzVTmGECnDtU_-16" value="Transporter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="570" y="160" width="80" height="60" as="geometry" />
+        <mxCell id="-r0ti4NhzVTmGECnDtU_-16" value="Transport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="474" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-r0ti4NhzVTmGECnDtU_-17" value="Residues recycling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="650" y="384" width="80" height="60" as="geometry" />
@@ -456,8 +456,8 @@
         <mxCell id="Ca3WtcqFlA-a40tMtNKu-11" value="Conventional economy crisis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ca3WtcqFlA-a40tMtNKu-12" value="Transformer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="670" y="160" width="85" height="60" as="geometry" />
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-12" value="Transformation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="574" y="160" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ca3WtcqFlA-a40tMtNKu-13" value="Sold" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="360" y="270" width="80" height="60" as="geometry" />
@@ -484,7 +484,7 @@
           <mxGeometry x="535" y="384" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ca3WtcqFlA-a40tMtNKu-26" value="Supply chain length" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="456" y="160" width="85" height="60" as="geometry" />
+          <mxGeometry x="360" y="160" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ca3WtcqFlA-a40tMtNKu-27" value="Animals" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
           <mxGeometry x="755" y="384" width="80" height="60" as="geometry" />
@@ -497,20 +497,33 @@
             <mxPoint x="110" y="200" as="sourcePoint" />
             <mxPoint x="538.5" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="499" y="130" />
-              <mxPoint x="70" y="130" />
+              <mxPoint x="403" y="150" />
+              <mxPoint x="240" y="150" />
+              <mxPoint x="70" y="150" />
               <mxPoint x="70" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ca3WtcqFlA-a40tMtNKu-30" value="Energy efficiency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="811" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-30" value="Efficiency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="840" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ca3WtcqFlA-a40tMtNKu-31" value="Diversity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="951" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-31" value="Diversity cooperation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="980" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ca3WtcqFlA-a40tMtNKu-32" value="Wellfare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
-          <mxGeometry x="891" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-33" value="Recycling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="920" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-34" value="Soil pan depth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="901" y="720" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-35" value="Consumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="680" y="160" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca3WtcqFlA-a40tMtNKu-36" value="Waste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-r0ti4NhzVTmGECnDtU_-1">
+          <mxGeometry x="680" y="270" width="85" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
