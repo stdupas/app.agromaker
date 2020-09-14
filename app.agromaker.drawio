@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T13:50:05.175Z" agent="5.0 (X11)" etag="nCBesP9GOjXEF-sGwDLS" version="13.6.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-14T14:24:28.768Z" agent="5.0 (X11)" etag="N-j8OZ-1PFZpVmGLPqXQ" version="13.6.9" type="github" pages="4">
   <diagram id="Pf8WNJaXz8v3mVxfZ9bQ" name="Page-1">
     <mxGraphModel dx="1115" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -331,7 +331,7 @@
         <mxCell id="7uiI3IhxHWoRHPK7Kd-0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" parent="n5HtSUz3Oa1L7r2nbjOb-1" source="7uiI3IhxHWoRHPK7Kd-0-6" target="7uiI3IhxHWoRHPK7Kd-0-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7uiI3IhxHWoRHPK7Kd-0-9" value="User" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="n5HtSUz3Oa1L7r2nbjOb-1" vertex="1">
+        <mxCell id="7uiI3IhxHWoRHPK7Kd-0-9" value="Usuario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="n5HtSUz3Oa1L7r2nbjOb-1" vertex="1">
           <mxGeometry x="498" y="61.24" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7uiI3IhxHWoRHPK7Kd-0-10" value="registra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" parent="n5HtSUz3Oa1L7r2nbjOb-1" vertex="1">
@@ -402,8 +402,8 @@
             <mxPoint x="716" y="559" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7uiI3IhxHWoRHPK7Kd-0-28" value="Defines" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontColor=#0000FF;" parent="n5HtSUz3Oa1L7r2nbjOb-1" vertex="1">
-          <mxGeometry x="145" y="431.5" width="70" height="30" as="geometry" />
+        <mxCell id="7uiI3IhxHWoRHPK7Kd-0-28" value="Define" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontColor=#0000FF;" parent="n5HtSUz3Oa1L7r2nbjOb-1" vertex="1">
+          <mxGeometry x="150" y="431.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7uiI3IhxHWoRHPK7Kd-0-29" value="Modelos agroecológicos con variables y categorias y criterios para evaluar la huella ecológica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="n5HtSUz3Oa1L7r2nbjOb-1" vertex="1">
           <mxGeometry x="38" y="470" width="215" height="120" as="geometry" />
