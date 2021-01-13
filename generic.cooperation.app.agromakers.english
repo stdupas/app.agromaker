@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T16:30:43.978Z" agent="5.0 (X11)" etag="n1nuXMBlwQFHo9hbVdt4" version="13.9.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-13T16:31:13.391Z" agent="5.0 (X11)" etag="euP6PFhmKn_UFGX5ELbF" version="13.9.2" type="github" pages="4">
   <diagram name="Generic" id="L2zVHIwQ1FaaPjd5bkjW">
     <mxGraphModel dx="1115" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -273,7 +273,7 @@
         <mxCell id="EBWjGMVDPih0saA19D95-12" value="" style="group" vertex="1" connectable="0" parent="i3iYGQHicueTTl_Xn7hw-1">
           <mxGeometry x="832" y="171" width="289" height="159.39" as="geometry" />
         </mxCell>
-        <mxCell id="i3iYGQHicueTTl_Xn7hw-53" value="&lt;div&gt;External&lt;/div&gt;&lt;div&gt;Platforms &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=0;fontColor=#FF0080;" parent="EBWjGMVDPih0saA19D95-12" vertex="1">
+        <mxCell id="i3iYGQHicueTTl_Xn7hw-53" value="&lt;div&gt;Other platforms interoperabilty&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=0;fontColor=#FF0080;" parent="EBWjGMVDPih0saA19D95-12" vertex="1">
           <mxGeometry width="290" height="159.39" as="geometry" />
         </mxCell>
         <mxCell id="i3iYGQHicueTTl_Xn7hw-74" value="Etc..." style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontSize=17;fontColor=#FF0080;fontStyle=0;" parent="EBWjGMVDPih0saA19D95-12" vertex="1">
