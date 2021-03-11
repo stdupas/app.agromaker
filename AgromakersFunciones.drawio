@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T18:07:33.596Z" agent="5.0 (X11)" version="14.4.4" etag="-ob5c7RT6EEj3lFoqIVh" type="github"><diagram id="CwR9tyW8PG0RZ9ZExUJv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-11T18:09:20.845Z" agent="5.0 (X11)" etag="zd4ou5iD3XjqCQA-O82_" version="14.4.4" type="github">
+  <diagram id="CwR9tyW8PG0RZ9ZExUJv" name="Page-1">
+    <mxGraphModel dx="1115" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BNZLq48Je6W781u--YkZ-1" value="Colecta de información" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNZLq48Je6W781u--YkZ-3" value="Trazabilidad de productos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNZLq48Je6W781u--YkZ-4" value="&lt;div&gt;Servicios &lt;br&gt;&lt;/div&gt;&lt;div&gt;climáticos participativos&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
