@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T19:15:00.419Z" agent="5.0 (X11)" etag="BH5a2Ez-verk1wYMtkCy" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T23:05:35.160Z" agent="5.0 (X11)" etag="7MazQ6HEQJt20TkWxIVm" version="14.4.4" type="github">
   <diagram id="CwR9tyW8PG0RZ9ZExUJv" name="Page-1">
     <mxGraphModel dx="1593" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="BNZLq48Je6W781u--YkZ-1" value="Colecta de información" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="198.99677679290892" y="290.1011111111111" width="160.61240934730057" height="86.66666666666667" as="geometry" />
         </mxCell>
-        <mxCell id="BNZLq48Je6W781u--YkZ-3" value="Certificación de productos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="BNZLq48Je6W781u--YkZ-3" value="Certificación participativa de productos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="506.83722804190165" y="203.43444444444444" width="160.61240934730057" height="86.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="BNZLq48Je6W781u--YkZ-4" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Servicios &lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;climáticos participativos&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
