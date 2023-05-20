@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T14:13:36.533Z" agent="5.0 (X11)" etag="J8Hg8A9X9QIio2wN_VDH" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T14:16:59.652Z" agent="5.0 (X11)" etag="KK5VuBHMnjxUdAeHd0Dq" version="20.4.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="801" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="7_Ktyn4Td1zbls2RSr2U-1780" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" parent="1" source="1771" target="1753" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wV_RwZgJfHrOoYBap2ik-1774" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1771" target="wV_RwZgJfHrOoYBap2ik-1773">
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1788" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0839FF;" edge="1" parent="1" source="1771" target="wV_RwZgJfHrOoYBap2ik-1787">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1771" value="Levantando" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
@@ -69,23 +69,42 @@
             <mxPoint x="624.5" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wV_RwZgJfHrOoYBap2ik-1771" value="&lt;div&gt;ID&lt;/div&gt;&lt;div&gt;ID madre&lt;/div&gt;&lt;div&gt;ID padre&lt;/div&gt;&lt;div&gt;Número de individuos&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fecha inicio&lt;/div&gt;&lt;div&gt;Fecha fin&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;previsto&lt;/div&gt;&lt;div&gt;observado&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#0839FF;fontColor=#0839FF;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="130" y="330" width="150" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="wV_RwZgJfHrOoYBap2ik-1773" value="&lt;div&gt;Fecha inicio&lt;/div&gt;&lt;div&gt;Fecha fin&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;fillColor=#FFFFFF;strokeColor=#0839FF;fontColor=#0839FF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="358" y="329.9999999999999" width="120" height="60" as="geometry" />
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1771" value="&lt;div&gt;ID&lt;/div&gt;&lt;div&gt;ID madre&lt;/div&gt;&lt;div&gt;ID padre&lt;/div&gt;&lt;div&gt;Número de individuos&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sexos&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fecha inicio&lt;/div&gt;&lt;div&gt;Fecha fin&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;previsto&lt;/div&gt;&lt;div&gt;observado&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#0839FF;fontColor=#0839FF;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="150" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wV_RwZgJfHrOoYBap2ik-1781" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wV_RwZgJfHrOoYBap2ik-1775" target="wV_RwZgJfHrOoYBap2ik-1771">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wV_RwZgJfHrOoYBap2ik-1775" value="Tiempo nacimiento-destete" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="145" y="544" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wV_RwZgJfHrOoYBap2ik-1782" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="wV_RwZgJfHrOoYBap2ik-1777" target="wV_RwZgJfHrOoYBap2ik-1773">
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1789" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0839FF;" edge="1" parent="1" source="wV_RwZgJfHrOoYBap2ik-1777" target="wV_RwZgJfHrOoYBap2ik-1787">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wV_RwZgJfHrOoYBap2ik-1777" value="Tiempo levante" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="358" y="543.9999999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="358" y="449.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1790" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0839FF;entryX=0.065;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wV_RwZgJfHrOoYBap2ik-1783" target="1753">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="586" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1783" value="Tiempo lactancia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="410" y="149.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1784" value="Tiempo engorde" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="640" y="543.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1786" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0839FF;" edge="1" parent="1" source="wV_RwZgJfHrOoYBap2ik-1785" target="z_6aWykkNIrOVK7mSuos-1771">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1785" value="Tiempo descanso" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="410" y="59.999999999999886" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1787" value="&lt;div&gt;Fecha inicio&lt;/div&gt;&lt;div&gt;Fecha fin&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#0839FF;fontColor=#0839FF;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="343" y="330" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
