@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T14:56:46.568Z" agent="5.0 (X11)" etag="JJeab9cJKtrhm1v8u2T8" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T14:57:36.330Z" agent="5.0 (X11)" etag="axJayCIzthAI4g7oYJxD" version="20.4.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1115" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
         <mxCell id="_-vP3DGrT6uwovaDLPBB-1788" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wV_RwZgJfHrOoYBap2ik-1784" target="_-vP3DGrT6uwovaDLPBB-1771" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wV_RwZgJfHrOoYBap2ik-1784" value="&lt;div&gt;Ep.t=Tiempo engorde&lt;/div&gt;&lt;div&gt;Ep.m= mortalidad&lt;/div&gt;&lt;div&gt;Ep.po=peso esperado a la oferta&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#D4AD9B;strokeColor=none;fontColor=#000000;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="770" y="615" width="110" height="120" as="geometry" />
+        <mxCell id="wV_RwZgJfHrOoYBap2ik-1784" value="&lt;div&gt;E.p.t=Tiempo engorde&lt;/div&gt;&lt;div&gt;E.p.m= mortalidad&lt;/div&gt;&lt;div&gt;E.p.po=peso esperado a la oferta&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#D4AD9B;strokeColor=none;fontColor=#000000;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="770" y="621" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_-vP3DGrT6uwovaDLPBB-1787" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wV_RwZgJfHrOoYBap2ik-1785" target="_-vP3DGrT6uwovaDLPBB-1790" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -156,7 +156,7 @@
         </mxCell>
         <mxCell id="_-vP3DGrT6uwovaDLPBB-1781" value="&lt;div&gt;C.Ev=Números&lt;/div&gt;&lt;div&gt;Fecha&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#FFE6CC;labelBorderColor=#E85642;" parent="_-vP3DGrT6uwovaDLPBB-1780" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="-7" as="offset" />
+            <mxPoint x="-2" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_-vP3DGrT6uwovaDLPBB-1782" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1753" target="z_6aWykkNIrOVK7mSuos-1771" edge="1">
