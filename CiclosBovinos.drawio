@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T14:36:47.964Z" agent="5.0 (X11)" etag="VqacQon7Uim1nkCdSJjP" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T14:37:12.938Z" agent="5.0 (X11)" etag="F7PHI0rB9lmhjK_cMvUp" version="20.4.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1312" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
         <mxCell id="_-vP3DGrT6uwovaDLPBB-1790" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Dv.ID&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Dv.i.o=Fecha inicio&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Dv.f.p=Fecha fin&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;previsto&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Dv.f.o=Fecha fin observada Dv.n=números&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#A20025;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="584" y="453" width="110" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="DLMDTIZW3BZclp9K0W_a-1774" value="F. En oferta" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#572C18;strokeWidth=3;fillColor=#A0522D;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="DLMDTIZW3BZclp9K0W_a-1774" value="F. Animales en oferta" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#572C18;strokeWidth=3;fillColor=#A0522D;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="790" y="354" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
