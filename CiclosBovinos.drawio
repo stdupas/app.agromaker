@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T14:57:36.330Z" agent="5.0 (X11)" etag="axJayCIzthAI4g7oYJxD" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T14:57:58.696Z" agent="5.0 (X11)" etag="VifTKiZkHEXuEadHs2pQ" version="20.4.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1115" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1749" value="A. Amamantando" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="135" y="239" width="140" height="61" as="geometry" />
+          <mxGeometry x="118" y="239" width="140" height="61" as="geometry" />
         </mxCell>
         <mxCell id="1753" value="C. Lactando" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="584" y="238" width="150" height="60" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="418" y="180" />
-              <mxPoint x="241" y="180" />
+              <mxPoint x="224" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -61,15 +61,15 @@
           <mxGeometry x="584" y="110" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wV_RwZgJfHrOoYBap2ik-1771" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;A.v.ID&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;A.v.ID.m=ID Madre&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;A.v.ID.p= ID padre&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;A.v.m-h=Número machos y hembras&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;A.v.i.o=Fecha inicio&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;A.v.f.p=Fecha fin&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;previsto&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;A.v.f.o=observado&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#BBCAD6;strokeColor=#2F5B7C;fontColor=#000000;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="130" y="350" width="150" height="150" as="geometry" />
+          <mxGeometry x="113" y="350" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wV_RwZgJfHrOoYBap2ik-1781" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wV_RwZgJfHrOoYBap2ik-1775" target="wV_RwZgJfHrOoYBap2ik-1771" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205" y="580" as="targetPoint" />
+            <mxPoint x="188" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wV_RwZgJfHrOoYBap2ik-1775" value="&lt;div&gt;A.p.t=Tiempo nacimiento-destete&lt;/div&gt;&lt;div&gt;A.p.m=Mortalidad&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#BBCAD6;strokeColor=none;fontColor=#000000;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="133.5" y="660" width="142.5" height="80" as="geometry" />
+          <mxGeometry x="116.5" y="660" width="142.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wV_RwZgJfHrOoYBap2ik-1789" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0839FF;" parent="1" source="wV_RwZgJfHrOoYBap2ik-1777" target="wV_RwZgJfHrOoYBap2ik-1787" edge="1">
           <mxGeometry relative="1" as="geometry" />
