@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T15:22:19.203Z" agent="5.0 (X11)" etag="b8QMjRTUBjMtp8daydAT" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T15:22:54.302Z" agent="5.0 (X11)" etag="qCR03SSHDXsNMbX1G714" version="20.4.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1115" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
         </mxCell>
         <mxCell id="_-vP3DGrT6uwovaDLPBB-1779" value="B.Ev=&lt;div&gt;Números&lt;/div&gt;&lt;div&gt;Sexos&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fecha&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#9AC7BF;labelBorderColor=#12AAB5;" parent="_-vP3DGrT6uwovaDLPBB-1778" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="25" y="-14" as="offset" />
+            <mxPoint x="-6" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_-vP3DGrT6uwovaDLPBB-1780" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="1753" target="DLMDTIZW3BZclp9K0W_a-1774" edge="1">
