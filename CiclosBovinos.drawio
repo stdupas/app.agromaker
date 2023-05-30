@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T12:51:28.219Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="nIyNq-Bp2iGrAIVLjYA8" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-30T12:52:11.571Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="F8en1zY61jT5IfyPtxdS" version="21.3.5" type="github" pages="2">
   <diagram id="cez-rpx9PR17WSuJuLhv" name="Genérico">
     <mxGraphModel dx="1610" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,22 +11,22 @@
           <mxGeometry x="90" y="240" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-49" value="Variables enumeraciones fijas [] " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="90" y="600" width="200" height="20" as="geometry" />
+          <mxGeometry x="90" y="590" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-50" value="StepTransitions [ ] [ ]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="260" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-51" value="Genders (M,F, H)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="600" width="150" height="20" as="geometry" />
+          <mxGeometry x="340" y="590" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-52" value="Unities (individuals, Kg, l,... )" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="600" width="320" height="20" as="geometry" />
+          <mxGeometry x="500" y="590" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-53" value="Variables " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="90" y="680" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-54" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="230" width="480" height="320" as="geometry" />
+          <mxGeometry x="350" y="230" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="MyoScKNFmEBYEgEzymnH-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=3;" vertex="1" parent="b_mPPoaURZ4BV5WpPqKZ-54">
           <mxGeometry x="360" y="200" width="60" height="40" as="geometry">
@@ -118,7 +118,7 @@
           <mxGeometry x="420" y="160" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-55" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="90" width="781.6700000000001" height="40" as="geometry" />
+          <mxGeometry x="350" y="90" width="781.6700000000001" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MyoScKNFmEBYEgEzymnH-27" value="" style="group" vertex="1" connectable="0" parent="b_mPPoaURZ4BV5WpPqKZ-55">
           <mxGeometry width="670" height="40" as="geometry" />
