@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T23:35:36.373Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="4bjTNNpgVXKIfPM8otft" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-30T23:37:03.682Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="_LRtsYljVgPEJ1E8sYJH" version="21.3.5" type="github" pages="2">
   <diagram id="cez-rpx9PR17WSuJuLhv" name="Genérico">
     <mxGraphModel dx="1127" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -225,8 +225,8 @@
         <mxCell id="rNuEx3sRfUWNWiZSni4U-36" value=".step" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="515" y="1483.5" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rNuEx3sRfUWNWiZSni4U-39" value="&lt;div&gt;.log&lt;/div&gt;&lt;div&gt;.logit&lt;/div&gt;&lt;div&gt;-e&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="949.9999999999999" y="975.5" width="60" height="52.5" as="geometry" />
+        <mxCell id="rNuEx3sRfUWNWiZSni4U-39" value="&lt;div&gt;.log&lt;/div&gt;&lt;div&gt;.logit&lt;/div&gt;&lt;div&gt;.exp&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="950" y="975.5" width="60" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="rNuEx3sRfUWNWiZSni4U-40" value="&lt;div&gt;.varname&lt;/div&gt;&lt;div&gt;.value&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="725" y="1484.5" width="100" height="90" as="geometry" />
