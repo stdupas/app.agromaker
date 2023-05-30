@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T22:09:20.399Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="nCq5DFh-9YrR3i44qn75" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-30T22:42:49.142Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="lhQhK8yqQhuLgOy24z3i" version="21.3.5" type="github" pages="2">
   <diagram id="cez-rpx9PR17WSuJuLhv" name="Genérico">
     <mxGraphModel dx="1127" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-52" value="Unidades (individos, Kg, l,... )" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="460" y="530" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b_mPPoaURZ4BV5WpPqKZ-53" value="Cycle state variables levels " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="b_mPPoaURZ4BV5WpPqKZ-53" value="Cycle step variables levels " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="50" y="866" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-54" value="" style="group" parent="1" vertex="1" connectable="0">
