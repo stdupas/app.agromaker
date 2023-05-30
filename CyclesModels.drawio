@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T21:31:58.127Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="TgRee_BiNjdV9b7XDbWz" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-30T21:34:59.483Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="pa-8ljbbTKHxCwotsdjG" version="21.3.5" type="github" pages="2">
   <diagram id="cez-rpx9PR17WSuJuLhv" name="Genérico">
     <mxGraphModel dx="1127" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-59" value="&lt;div&gt;.step&lt;/div&gt;&lt;div&gt;.stepstep&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="515" y="977" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="b_mPPoaURZ4BV5WpPqKZ-62" value="&lt;div&gt;.start&lt;/div&gt;&lt;div&gt;.atdate&lt;/div&gt;&lt;div&gt;.end&lt;/div&gt;&lt;div&gt;.all&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="b_mPPoaURZ4BV5WpPqKZ-62" value="&lt;div&gt;.starting&lt;/div&gt;.ending&lt;div&gt;.product&lt;/div&gt;&lt;div&gt;.activity&lt;/div&gt;&lt;div&gt;.observation&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="625" y="977" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="b_mPPoaURZ4BV5WpPqKZ-64" value="&lt;div&gt;.male&lt;/div&gt;&lt;div&gt;.female&lt;br&gt;&lt;/div&gt;&lt;div&gt;.dioic&lt;/div&gt;&lt;div&gt;.asexual&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
@@ -177,7 +177,7 @@
         <mxCell id="csLeSf18LWkZXM3OZ7Ix-9" value="&lt;div&gt;.male&lt;/div&gt;&lt;div&gt;.female&lt;br&gt;&lt;/div&gt;&lt;div&gt;.dioic&lt;/div&gt;&lt;div&gt;.asexual&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="725" y="1098" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="csLeSf18LWkZXM3OZ7Ix-10" value="&lt;div&gt;.duration&lt;/div&gt;&lt;div&gt;.degreeDay&lt;/div&gt;&lt;div&gt;.droughDayUpperThreshold&lt;/div&gt;&lt;div&gt;.humidityDayUpperThreshold&lt;/div&gt;&lt;div&gt;.treeCover&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="csLeSf18LWkZXM3OZ7Ix-10" value="&lt;div&gt;.duration&lt;/div&gt;&lt;div&gt;.degreeDay&lt;/div&gt;&lt;div&gt;.droughDayUpperThreshold&lt;/div&gt;&lt;div&gt;.humidityDayUpperThreshold&lt;/div&gt;&lt;div&gt;.treeCover&lt;/div&gt;&lt;div&gt;.organicContent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="825" y="1098" width="215" height="102" as="geometry" />
         </mxCell>
         <mxCell id="csLeSf18LWkZXM3OZ7Ix-11" value="Cycle variables combinations" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
@@ -231,7 +231,7 @@
         <mxCell id="rNuEx3sRfUWNWiZSni4U-2" value="3. Step" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="515" y="850" width="100" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="rNuEx3sRfUWNWiZSni4U-4" value="4. When in step" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="rNuEx3sRfUWNWiZSni4U-4" value="4. Class of variable" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="625" y="850" width="85" height="62" as="geometry" />
         </mxCell>
         <mxCell id="rNuEx3sRfUWNWiZSni4U-5" value="5. Gender" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
