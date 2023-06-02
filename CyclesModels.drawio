@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T14:11:57.425Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="70FrYeMlUHBC7ScGqbPV" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-02T14:15:05.988Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="O7j7aAKZy5vjLlY7r7zT" version="21.3.5" type="github" pages="2">
   <diagram id="cez-rpx9PR17WSuJuLhv" name="Genérico">
     <mxGraphModel dx="-96" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -788,6 +788,13 @@
         </mxCell>
         <mxCell id="bboikSEtlDNSUxXmhBnC-97" value="+ changeValue(float): value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="bboikSEtlDNSUxXmhBnC-94">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bboikSEtlDNSUxXmhBnC-98" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="bboikSEtlDNSUxXmhBnC-90" target="bboikSEtlDNSUxXmhBnC-97">
+          <mxGeometry x="-0.2778" y="-25" width="160" relative="1" as="geometry">
+            <mxPoint x="2017" y="290" as="sourcePoint" />
+            <mxPoint x="2017" y="251" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
